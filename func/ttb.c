@@ -9,6 +9,8 @@
 */
 
 int     my_charcmp(char s1, char s2);
+void    my_putstr(char *str);
+
 int	ttb(char check)
 {
   int i;

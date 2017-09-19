@@ -8,6 +8,7 @@
 ** Last update Thu Nov 13 16:24:17 2014 Bertocco Thomas-Killian
 */
 int     my_charcmp(char s1, char s2);
+void    my_putchar(char c);
 
 void my_aff_tab(char tab[10][10])
 {

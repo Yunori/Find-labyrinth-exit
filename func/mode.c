@@ -9,6 +9,9 @@
 */
 
 void    casu();
+void    my_putchar(char c);
+int     my_strcmp(char *s1, char *s2);
+void    hardcore();
 
 void	mode(char *c)
 {
